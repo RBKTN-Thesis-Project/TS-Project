@@ -18,7 +18,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.16.4",
     "express.io": "^1.1.13",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.8.11",
     "morgan": "^1.9.1",
     "multer": "^1.4.2",
